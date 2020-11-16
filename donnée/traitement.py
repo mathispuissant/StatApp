@@ -1,10 +1,3 @@
-from shapely.geometry import Polygon
-p = [(88, 2), (88, 3),
-(89, 3), (89, 2)]
-s = Polygon(p)
-print(s)
-
-##
 import numpy as np
 import geopandas as gpd
 import matplotlib.pyplot as plt
