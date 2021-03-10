@@ -1,13 +1,4 @@
-location,Paris,Paris,Paris,Paris
-lat,48.86489,48.86489,48.86489,48.86489
-lon,2.36968,2.36968,2.36968,2.36968
-asl,55.289,55.289,55.289,55.289
-variable,Temperature,Relative Humidity,Wind Speed,Wind Direction
-unit,°C,%,km/h,°
-level,2 m elevation corrected,2 m,10 m,10 m
-resolution,hourly,hourly,hourly,hourly
-aggregation,None,None,None,None
-timestamp,Paris Temperature [2 m elevation corrected],Paris Relative Humidity [2 m],Paris Wind Speed [10 m],Paris Wind Direction [10 m]
+Heure,Temperature,Relative Humidity,Wind Speed,Wind Direction
 20210207T0000,8.186377,95.0,14.003028,316.04163
 20210207T0100,7.7263765,94.0,15.986593,305.83765
 20210207T0200,7.446377,94.0,16.489416,306.11932
