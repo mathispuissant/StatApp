@@ -1,0 +1,1 @@
+velib.to_csv('/Users/IcloudElliott/Desktop/ENSAE/2A/STATAPP/velib_clean.csv')
